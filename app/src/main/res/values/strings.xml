@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas3_2018003</string>
+    <string name="borobudur" />
+    <string name="deskription_menu">Layout ini khusus untuk fragment bukan activity. Pada saat kita menggunakan FrameLayout, View – view seperti TextView, ImageView, dan lainnya akan saling menumpuk. Yang pertama akan berada di paling bawah sedangkan yang terakhir akan berada di paling atas. Semisal View yang kita buat TextView 1.</string>
+    <string name="fasilitas" >Kamar Mandi, Rest Area, Warung</string>
+    <string name="lokasi" >Yogyakarta</string>
+    <string name="harga" >Rp 100.000</string>
+    <string name="tiket_borobudur">2 orang</string>
+    <string name="saran_lokasi" />
+
+    <string name="rajaampat" />
+    <string name="deskription_rajaampat">Layout ini khusus untuk fragment bukan activity. Pada saat kita menggunakan FrameLayout, View – view seperti TextView, ImageView, dan lainnya akan saling menumpuk. Yang pertama akan berada di paling bawah sedangkan yang terakhir akan berada di paling atas. Semisal View yang kita buat TextView 1.</string>
+    <string name="fasilitas2" >Kamar Mandi, Rest Area, Warung</string>
+    <string name="lokasi2" >Papua</string>
+    <string name="harga2" >Rp 400.000</string>
+    <string name="tiket_rajaampat">5 orang</string>
+
+</resources>
